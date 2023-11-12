@@ -9,3 +9,7 @@ C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesPr
 C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\refint\EventBus.RabbitMQ.dll
 C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.pdb
 C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\ref\EventBus.RabbitMQ.dll
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.Base.dll
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.Base.pdb
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.csproj.CopyComplete
