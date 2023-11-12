@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NVFA4CzmmHtiGyidxmfJW413KkURlI2tXQ5IfsfpbkpNm5lRh3AR6OhiUDgUDxTPjwn2uVSutDUEddGjzDbitw==",
+  "dgSpecHash": "MjpnSbQ3FmYw5+F1M9lOf2bpR9D45+TrjEPOxR1QViHQs7vC01wdUNaBOP2TgXlNnNac5E024V8GSRA804cd5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

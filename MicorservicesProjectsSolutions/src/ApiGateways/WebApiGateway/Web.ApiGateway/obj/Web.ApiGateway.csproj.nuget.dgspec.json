@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {}
+    "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {
+    "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
         "projectName": "Web.ApiGateway",
-        "projectPath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "projectPath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

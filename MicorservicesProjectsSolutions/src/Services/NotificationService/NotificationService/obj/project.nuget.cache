@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ugw03JJEerbTlIrYUJp0KkfTYZRYVvLBG0b2pQs34alkt4PqdK4Fuoflt/gY32m5F/QrePoIQxVI6zgVpsWJTg==",
+  "dgSpecHash": "hWBNVLshH9cWH/JOZY9MTbDlPKUvIripRhQdmOW2h4+Dw5QON+WAY4NGvjpexIq0RJZ5Z5XPbYx8FkgBRSyStQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

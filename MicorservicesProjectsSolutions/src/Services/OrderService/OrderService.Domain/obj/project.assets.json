@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
       "projectName": "OrderService.Domain",
-      "projectPath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+      "projectPath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\Services\\OrderService\\OrderService.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Services\\OrderService\\OrderService.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

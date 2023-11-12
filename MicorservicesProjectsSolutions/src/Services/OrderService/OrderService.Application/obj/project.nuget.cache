@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u2Er8g9kj+eLqFsMdaIJMRjX19AiDrn8fgBhBukiQCRnxZO6ZZxSxZ+JeVajLk31dJFlaDf360g5MjSkRjdJng==",
+  "dgSpecHash": "JAlr5+yTCwmeJRsZiOPjjiTA8eIVQ9iUGFfMtvlsaDl0VNXqTV/UbvCPg5mc4qumnataTP+BW05NcP7UGut39Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

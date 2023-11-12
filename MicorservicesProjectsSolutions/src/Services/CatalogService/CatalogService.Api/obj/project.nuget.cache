@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C1PFSzGhHbqwsb7KgllSTCqdRdSKBrlsiCsnK/YSF2pWfDGeYmyhUjq5gH6Seet9JJe/K5Oz4LP8ACOpSw8Gtw==",
+  "dgSpecHash": "TO8emFx2XCB3WJjSswbEFnCr8MxS7uUYK+qTWWiWOas/JtyBgGnYGUtTnfzVozt+ypNYTwzKJdEpsWOVao6cjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

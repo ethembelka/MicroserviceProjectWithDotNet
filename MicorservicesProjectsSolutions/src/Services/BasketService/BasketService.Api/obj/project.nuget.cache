@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGkWIDizFIGnmA4bQuj5y6cFzDUjtYvbq84QxmIklpToJrm3YdXuho255ssXoEqrUoOutJDCDpLv8NjQKTXWxg==",
+  "dgSpecHash": "uYlPC9QJPGZ60+3qWjUqCYU3cUqIxUUuWD/1mNQ1tRoRea/PcQFGa5zho7fGCE/H2Az10nUvltVbrIPCzTqgqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

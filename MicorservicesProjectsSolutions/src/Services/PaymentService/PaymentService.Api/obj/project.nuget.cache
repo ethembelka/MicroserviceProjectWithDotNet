@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JcCwIFr+CZ8qtwtPwBHAR+PzuHgQAtrA0EThJ2HG7gq3Btq3QnmVFqHLXxbP3pbthd5k6dgIuPa5QCEgYUbWJA==",
+  "dgSpecHash": "0/vtiJCkLF/Jo6Ay7LppYS0Lix0XVY4E+PaF83m9B6SSywQAhkJczbfZKkDzZhQH8i7NqQ6KYtf7srLZ/pgHHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ryePYHwLVPuI+vjYLmMVsc+ADEwWDzx/gLOjcSRMvs80Hv+CJd95S44vTrbuaBqWOAJYVgFbno6WG/NGMgDKWQ==",
+  "dgSpecHash": "XjJ5pIZ8IpaUwOQo+3V27AICgSBFXCGB2s+/emJdN+TxqP2j/vEw0vdjP7eLrbKmXzhL2qmC8xZu4phm83XbQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
