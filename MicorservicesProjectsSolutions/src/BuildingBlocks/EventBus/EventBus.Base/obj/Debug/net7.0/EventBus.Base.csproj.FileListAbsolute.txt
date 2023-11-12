@@ -1,0 +1,5 @@
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.AssemblyInfo.cs
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.csproj.CoreCompileInputs.cache

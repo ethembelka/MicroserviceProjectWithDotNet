@@ -1,0 +1,11 @@
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Factory.deps.json
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Factory.dll
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Factory.pdb
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.AssemblyInfoInputs.cache
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.AssemblyInfo.cs
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.dll
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\refint\EventBus.Factory.dll
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.pdb
+C:\Users\ASUS\GitHub\Microservices\MicroserviceProjectWithDotNet\MicorservicesProjectsSolutions\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\ref\EventBus.Factory.dll
