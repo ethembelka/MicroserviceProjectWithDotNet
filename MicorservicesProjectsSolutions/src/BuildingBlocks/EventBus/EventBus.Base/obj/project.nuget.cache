@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "v2vpeaIL4+aR8i/uJJOWhd9Utp/QnkGZPxKirN40glAP9cmeUvyTAI8UkxeHJQaPKPx8S+YVFtl1UUbSU3uX5w==",
+  "dgSpecHash": "hd16UeWrDfSCXiAJd+Dftmr5/mx9/wPLw6PqfHZj+/luInQ+2QZJw9gbu5R9o3X+a+TrrTPlKTQe1iWoWxRqrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

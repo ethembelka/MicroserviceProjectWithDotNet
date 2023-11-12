@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o0OUlpXYbhIVMfPS8QLhyYKrHluxUioYTrnwhFAOIiTEzQ9iL252jpXvRI3LpJ9hesJpnoW2WUt8Ws7gJMDKzw==",
+  "dgSpecHash": "na5ST3CpBwlzFobOcpaO8WAbu+ShcNOyacW0s1jEHoqkzqfx+Rskq6hrFxdCZOdEaZCogMZSkTTEqExQVENHwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
