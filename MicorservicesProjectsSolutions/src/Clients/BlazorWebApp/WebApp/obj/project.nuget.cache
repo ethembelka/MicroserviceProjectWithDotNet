@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rZUf7KyxFWq9KJ1dlyu4nqLyDTktaPEnnsvM0C6nPIkgluCvoBa6Vvals/iDX3IFYyLdddINIeq84QchXVBjDQ==",
+  "dgSpecHash": "oxV74Cw3YdwmkaXA1pXYaMUcXtCGspH3o5bRnyuACqNQd0aS3QZPINFBLphJTM2KnhM+4xmAusg1aLnxIrw68g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\GitHub\\Microservices\\MicroserviceProjectWithDotNet\\MicorservicesProjectsSolutions\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,7 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.12\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.12.nupkg.sha512"
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.13\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.13.nupkg.sha512"
   ],
   "logs": []
 }
