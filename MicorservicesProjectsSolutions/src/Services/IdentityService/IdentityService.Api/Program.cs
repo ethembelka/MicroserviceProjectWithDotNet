@@ -1,4 +1,6 @@
 using IdentityService.Api.Application.Services;
+using IdentityService.Api.Extensions;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IIdentityService, IdentityService.Api.Application.Services.IdentityService>();
+
+builder.Services.ConfigureConsul(builder.Configuration);
 
 var app = builder.Build();
 
@@ -26,4 +30,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+
+app.Start();
+app.RegisterWithConsul(app.Lifetime);
+app.WaitForShutdown();

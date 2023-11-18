@@ -21,6 +21,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.Configure<CatalogSettings>(builder.Configuration.GetSection("CatalogSettings"));
 builder.Services.ConfigureDbContext(builder.Configuration);
 
+builder.Services.ConfigureConsul(builder.Configuration);
+
 var app = builder.Build();
 
 app.MigrateDbContext<CatalogContext>((context, services) =>
@@ -44,4 +46,10 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+app.Start();
+
+app.RegisterWithConsul(app.Lifetime);
+
+app.WaitForShutdown();
+
+//app.Run();

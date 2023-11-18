@@ -9,7 +9,7 @@ using System.Net;
 
 namespace CatalogService.Api.Controllers
 {
-    [Route("api/v1/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class CatalogController : ControllerBase
     {
