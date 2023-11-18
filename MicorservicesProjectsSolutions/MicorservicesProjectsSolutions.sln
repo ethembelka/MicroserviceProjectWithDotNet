@@ -70,7 +70,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{70AFBF26
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{4C943A8E-C59E-417A-952C-CB4D22CFA649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.UnitTest", "tests\BuildingBlocks\EventBus.UnitTest\EventBus.UnitTest.csproj", "{2B339D7C-7F6A-413F-81CA-1AFF93478601}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus.UnitTest", "tests\BuildingBlocks\EventBus.UnitTest\EventBus.UnitTest.csproj", "{2B339D7C-7F6A-413F-81CA-1AFF93478601}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docker-compose-files", "docker-compose-files", "{616C02EB-0A76-4AE0-8338-1982234C2451}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "consul", "consul", "{5EC1B9D4-F2E0-476B-BCE4-A40CBB72AF7E}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rabbitmq", "rabbitmq", "{FDBA433E-0137-4202-B85C-01E15172CB25}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "redis", "redis", "{53C56E83-61DC-4E9A-8E3C-D90A75A51238}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sqlserver", "sqlserver", "{416BAA14-83BA-4431-9268-88FA6B66B814}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +193,10 @@ Global
 		{DF939D4C-032A-44A5-A3B0-0A6324CA7A9A} = {D553AB1C-3336-4AA8-886C-82A8F4EE3C56}
 		{4C943A8E-C59E-417A-952C-CB4D22CFA649} = {70AFBF26-92AC-4796-B4D5-4F8425B988C3}
 		{2B339D7C-7F6A-413F-81CA-1AFF93478601} = {4C943A8E-C59E-417A-952C-CB4D22CFA649}
+		{5EC1B9D4-F2E0-476B-BCE4-A40CBB72AF7E} = {616C02EB-0A76-4AE0-8338-1982234C2451}
+		{FDBA433E-0137-4202-B85C-01E15172CB25} = {616C02EB-0A76-4AE0-8338-1982234C2451}
+		{53C56E83-61DC-4E9A-8E3C-D90A75A51238} = {616C02EB-0A76-4AE0-8338-1982234C2451}
+		{416BAA14-83BA-4431-9268-88FA6B66B814} = {616C02EB-0A76-4AE0-8338-1982234C2451}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2FB672D8-BE1F-4EC3-BA25-55C3D6F35222}
